@@ -1,0 +1,19 @@
+#merah {
+	background-color: red;
+	position: absolute;
+	z-index: -1;
+	top: 0px;
+	left: 0px;
+	width: 400px;
+	height: 200px;
+}
+
+#hijau {
+	background-color: green;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: 0;
+	width: 140px;
+	height: 80px;
+}
