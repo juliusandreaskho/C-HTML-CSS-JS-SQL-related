@@ -1,0 +1,182 @@
+body {
+	border-top: 10px solid #000000;
+	margin: 0;
+	background-color: #ffffff;
+	font-family: Arial;
+}
+
+.bungkus {
+	width: 963px;
+	margin: 0 auto;
+}
+
+/*section 1 below*/
+
+#crtvstudlgo {
+	display: inline;
+	margin-top: 3px;
+	margin-left: 3px;
+}
+
+#topmenu {
+	float: right;
+	margin-top: 5px;
+	display: inline;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+#topmenu ul {
+	margin: 9px;
+	padding: 10px;
+}
+
+#topmenu ul li {
+	list-style: none;
+	display: inline-block;
+	margin-right: 18px;
+	margin-left: 20px;
+}
+
+#topmenu ul li a {
+	color: #000000;
+	text-decoration: none;
+	font-family: Verdana;
+	font-size: 13px;
+}
+
+#topmenu ul li a:hover{
+	color: #000000;
+	transition: 2.91s;
+}
+
+/*section 2* below*/
+
+#backgrnd {
+	background: url(images/2.jpg);
+  	background-size: 991px auto;
+  	background-repeat: no-repeat;
+	border-bottom: 1px solid #999999;
+	margin-bottom: 10px;
+	width: auto;
+	height: 500px;
+}
+
+/*section 3 below*/
+
+#serakah {
+	font-family: Arial;
+	font-size: 16px;
+	margin: 0px 11px 0px 11px;
+}
+
+#portflio {
+	margin-bottom: 25px;
+	border-bottom: 1px solid #999999;
+	margin-top: 45px;
+}
+
+.pfolio {
+	display: inline-block;
+	margin: 15px 10px 15px 10px;
+	height: 136px;
+	width: 216px;
+}
+
+/*section 4 below*/
+
+#midspan {
+	margin-bottom: 10px;
+}
+
+.part2 {
+	display: inline-block;
+	width: auto;
+	margin: 8px 4px auto;
+	font-family: Arial;
+	font-size: 14px;
+	vertical-align: top;
+	line-height: 175%;
+}
+
+/*section 5 below*/
+
+#mid4span {
+	margin-top: 25px;
+	margin-bottom: 20px;
+}
+
+.part1 {
+	display: inline-block;
+	width: 227px;
+	margin: 5px 5px auto;
+	font-family: Arial;
+	font-size: 14px;
+	vertical-align: top;
+	line-height: 150%;
+}
+
+#tombol {
+	width: 220px;
+	height: 30px;
+}
+
+/*section 6 below*/
+
+#kontakform {
+	display: inline-block;
+	width: 940px;
+	margin: 5px 100px 0px 10px;
+	text-align: justify;
+}
+
+#kontakform input {
+	width: 900px;
+	margin: 10px;
+}
+
+#kontakform button {
+	width: 200px; 
+	height: 50px; 
+	background-color: black; color: white;
+	margin-bottom: 25px;
+	margin-left: 10px;
+	margin-top: 10px;
+	padding-bottom: 5px;
+}
+
+#kontak {
+	margin-bottom: 10px;
+	font-family: Arial;
+	display: inline;
+}
+
+/* section 7 below*/
+
+#street {
+	background: url(images/street.jpg);
+  	background-size: 991px auto;
+  	background-repeat: no-repeat;
+	margin-bottom: 10px;
+	width: auto;
+	height: 500px;
+}
+
+/*section 8 below*/
+
+#foot {
+	background-color: #000000;
+	font-family: Arial;
+	height: 55px;
+}
+
+#copyright {
+	color: #ffffff;
+	margin: 10px 0px 0px 0px;
+	text-align: center;
+	padding: 2px;
+}
+
+#copyright a {
+	color: #ffffff;
+}
